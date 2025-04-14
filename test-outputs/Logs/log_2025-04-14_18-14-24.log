@@ -1,0 +1,12 @@
+[DEBUG] - [14-04-2025 18:14:24] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\TAG\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+[INFO] - [14-04-2025 18:14:24] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\TAG\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO] - [14-04-2025 18:14:25] [main] [Steps.UI.CarFuelConsumptionTrackerTest] - Test Execution started
+[INFO] - [14-04-2025 18:14:25] [main] [Helpers.FilesUtils] - Directory already exists: test-outputs\allure-results
+[INFO] - [14-04-2025 18:14:25] [main] [Helpers.FilesUtils] - Directory already exists: test-outputs\Logs
+[INFO] - [14-04-2025 18:14:25] [main] [Helpers.FilesUtils] - Directory created: test-outputs\screenshots
+[INFO] - [14-04-2025 18:15:12] [main] [Helpers.AllureUtils] - Generating Allure report...
+[INFO] - [14-04-2025 18:15:17] [main] [Helpers.AllureUtils] - Allure report generated successfully.
+[INFO] - [14-04-2025 18:15:17] [main] [Helpers.AllureUtils] - Serving Allure report...
+[INFO] - [14-04-2025 18:15:17] [main] [Helpers.AllureUtils] - Allure report is being served.
