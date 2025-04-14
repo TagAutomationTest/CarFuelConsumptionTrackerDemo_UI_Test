@@ -1,0 +1,12 @@
+[DEBUG] - [14-04-2025 17:07:38] [main] [org.testng.TestNG] - suiteXmlPath: "C:\Users\TAG\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml"
+[INFO] - [14-04-2025 17:07:38] [main] [org.testng.internal.Utils] - [TestNG] Running:
+  C:\Users\TAG\AppData\Local\JetBrains\IdeaIC2023.1\temp-testng-customsuite.xml
+
+[INFO] - [14-04-2025 17:07:39] [main] [Steps.UI.CarFuelConsumptionTrackerTest] - Test Execution started
+[INFO] - [14-04-2025 17:07:39] [main] [Helpers.FilesUtils] - Directory already exists: test-outputs\allure-results
+[INFO] - [14-04-2025 17:07:39] [main] [Helpers.FilesUtils] - Directory already exists: test-outputs\Logs
+[INFO] - [14-04-2025 17:07:39] [main] [Helpers.FilesUtils] - Directory created: test-outputs\screenshots
+[INFO] - [14-04-2025 17:08:23] [main] [Helpers.AllureUtils] - Generating Allure report...
+[ERROR] - [14-04-2025 17:08:24] [main] [Helpers.AllureUtils] - Failed to generate Allure report. Exit code: 1
+[INFO] - [14-04-2025 17:08:24] [main] [Helpers.AllureUtils] - Serving Allure report...
+[INFO] - [14-04-2025 17:08:24] [main] [Helpers.AllureUtils] - Allure report is being served.
